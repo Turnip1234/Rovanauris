@@ -1,6 +1,6 @@
-# Sorbetcraft 2
+# Sorbetcraft 3
 
-For the third season of the Sorbet
+For the Sorbet Season 4
 
 # DOWNLOAD & CHANGELOG:
 
