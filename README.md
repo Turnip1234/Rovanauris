@@ -1,20 +1,30 @@
-# Sorbetcraft 3
-
-For the Sorbet Season 4
+# Rovanauris
 
 # DOWNLOAD & CHANGELOG:
 
-Latest release v6.0b: Journeys Above, Below, and Between
-
-[LINK](https://github.com/Turnip1234/Sorbetcraft-v2/releases/tag/v6.0b)
+There are no downloads thus far, modpack is still indev.
 
 ## Description:
 
-A modpack for Minecraft 1.16.5 focused on sticking close to the vanilla spirit/principles while providing the uniqueness you can only get through modding. There's a little something for everyone, no matter what playstyle you enjoy, and is made specifically for playing on the Sorbet (or in a 5-10 people multiplayer environment). This modpack also prides itself on smaller mods which you might not find elsewhere, that add just a little bit more depth in the mechanichs of the game.
+A modpack for Minecraft 1.16.5 focused on sticking close to the vanilla spirit/principles while providing the uniqueness you can only get through modding. There's a little something for everyone, no matter what playstyle you enjoy.
 
 ## To install:
-1. Install MultiMC
-2. Click Add Instance -> Install from zip and select the modpack
+With MultiMC:
+1. Click Add Instance -> Install from zip and select the modpack
+With the Vanilla Launcher / Otherwise:
+1. Extract the zip file
+2. Go into the folder, and find `.minecraft`
+3. Move it somewhere permanent, where it can reside for the rest of eternity
+4. Open the Vanilla Minecraft launcher
+5. Navigate to the Installations tab
+6. Click New installation
+7. Name it something
+8. Change the version to Forge 1.16.5 [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) and run the latest  installer, if you don't already have Forge 1.16.5
+9. Change the game directory to the `.minecraft` folder that you extracted from the zip
+10. Select "MORE OPTIONS"
+11. Change the JVM arguments to the following: `-Xmx6G -Xms6G -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=600000 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32`
+12. Click "Create"
+13. Done!
 
 [join the discord](https://www.discord.gg/pEJGybM) and ask for help in #sorbet-chat-v2
 
