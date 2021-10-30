@@ -27,12 +27,12 @@ With the Vanilla Launcher / Otherwise:
 [join the discord](https://discord.gg/G2RxbCC4) and ask for help in #sorbet-chat-v2
 
 # FAQ:
-Q: Why the hell is it called Rovanauris?
-A: That's for you to find out
-Q: Why no OptiFine?
-A: Redistributing OptiFine is illegal, and besides, in this modpack it is a huge detriment to performance and it causes many, many bugs. Sorry, no shaders.
-Q: My game crashed what do I do?
-A: Get the crash report, and upload it to a service like [Hastebin](https://www.toptal.com/developers/hastebin/). Use this to ask for help, otherwise we have no idea what happened.
+- Q: Why the hell is it called Rovanauris?
+- A: That's for you to find out
+- Q: Why no OptiFine?
+- A: Redistributing OptiFine is illegal, and besides, in this modpack it is a huge detriment to performance and it causes many, many bugs. Sorry, no shaders.
+- Q: My game crashed what do I do?
+- A: Get the crash report, and upload it to a service like [Hastebin](https://www.toptal.com/developers/hastebin/). Use this to ask for help, otherwise we have no idea what happened.
 
 ## Screenshots:
 
