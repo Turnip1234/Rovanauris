@@ -36,10 +36,5 @@ With the Vanilla Launcher / Otherwise:
 
 ## Screenshots:
 
-### v6.0b
-
-![alt text](https://imgur.com/FHvpMbb.jpg "A large pagoda in the rain, surrounded by a glowing forest")
-
-![alt text](https://imgur.com/T3K856x.jpg "A beautiful cave opening in the daylight")
-
-![alt text](https://imgur.com/EX6Vz4P.jpg "A mossy underground lava lake with the cavern stretching into the distance")
+-- nothing here yet --
+Please submit screenshots on the Discord!
