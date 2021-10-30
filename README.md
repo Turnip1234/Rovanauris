@@ -24,7 +24,7 @@ With the Vanilla Launcher / Otherwise:
 12. Click "Create"
 13. Done!
 
-[join the discord](https://discord.gg/G2RxbCC4) and ask for help in #sorbet-chat-v2
+[join the discord](https://discord.gg/G2RxbCC4) and ask for help!
 
 # FAQ:
 - Q: Why the hell is it called Rovanauris?
