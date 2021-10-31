@@ -7,9 +7,9 @@ A modpack for Minecraft 1.16.5 about having a good time.
 There are no downloads thus far, modpack is still indev.
 
 ## To install:
-With MultiMC:
+#### With MultiMC:
 1. Click Add Instance -> Install from zip and select the modpack
-With the Vanilla Launcher / Otherwise:
+#### With the Vanilla Launcher / Otherwise:
 1. Extract the zip file
 2. Go into the folder, and find `.minecraft`
 3. Move it somewhere permanent, where it can reside for the rest of eternity
