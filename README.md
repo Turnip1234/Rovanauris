@@ -4,7 +4,7 @@
 A modpack for Minecraft 1.16.5 about having a good time.
 
 # DOWNLOAD & CHANGELOG:
-There are no downloads thus far, modpack is still indev.
+[Download](https://github.com/Turnip1234/Rovanauris/releases/tag/v-yes)
 
 ## To install:
 #### With MultiMC:
