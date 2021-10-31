@@ -1,7 +1,7 @@
 # Rovanauris
 
 ## Description:
-A modpack for Minecraft 1.16.5 focused on sticking close to the vanilla spirit/principles while providing the uniqueness you can only get through modding. There's a little something for everyone, no matter what playstyle you enjoy.
+A modpack for Minecraft 1.16.5 about having a good time.
 
 # DOWNLOAD & CHANGELOG:
 There are no downloads thus far, modpack is still indev.
