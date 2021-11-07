@@ -648,72 +648,72 @@
 		"Allow Special: Healing" = true
 
 [golem_tallow]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 48.0
 	#Range: 1.0 ~ 999.0
 	attack = 2.0
-
-[golem_soul_sandstone]
+	#Range: 1.0 ~ 999.0
+	health = 48.0
 	#Disables in-world building of the golem.
 	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 30.0
+
+[golem_soul_sandstone]
 	#Range: 1.0 ~ 999.0
 	attack = 4.0
+	#Range: 1.0 ~ 999.0
+	health = 30.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_soul_sandstone.specials]
 		#Whether this golem can apply slowness when attacking
 		"Allow Special: Slowness" = true
 
 [golem_charcoal]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 24.0
 	#Range: 1.0 ~ 999.0
 	attack = 2.5
+	#Range: 1.0 ~ 999.0
+	health = 24.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_charcoal.specials]
 		#Whether this golem can inflict blindness
 		"Allow Special: Blindness" = true
 
 [golem_elder_sea_lantern]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 36.0
 	#Range: 1.0 ~ 999.0
 	attack = 6.1
+	#Range: 1.0 ~ 999.0
+	health = 36.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_elder_sea_lantern.specials]
 		#Whether the golem can emit light
 		"Allow Special: Light" = true
 
 [golem_quilted_wool]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 16.0
 	#Range: 1.0 ~ 999.0
 	attack = 1.0
+	#Range: 1.0 ~ 999.0
+	health = 16.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 [golem_limestone]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 49.0
 	#Range: 1.0 ~ 999.0
 	attack = 5.0
-
-[golem_cave_crystal]
+	#Range: 1.0 ~ 999.0
+	health = 49.0
 	#Disables in-world building of the golem.
 	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 18.0
+
+[golem_cave_crystal]
 	#Range: 1.0 ~ 999.0
 	attack = 8.2
+	#Range: 1.0 ~ 999.0
+	health = 18.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_cave_crystal.specials]
 		#Whether the golem can emit light
@@ -722,28 +722,28 @@
 		"Allow Special: Emit Light" = true
 
 [golem_framed_glass]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 16.0
 	#Range: 1.0 ~ 999.0
 	attack = 8.5
+	#Range: 1.0 ~ 999.0
+	health = 16.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 [golem_duskbound]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 84.0
 	#Range: 1.0 ~ 999.0
 	attack = 6.6
-
-[golem_glowshroom]
+	#Range: 1.0 ~ 999.0
+	health = 84.0
 	#Disables in-world building of the golem.
 	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 30.0
+
+[golem_glowshroom]
 	#Range: 1.0 ~ 999.0
 	attack = 3.0
+	#Range: 1.0 ~ 999.0
+	health = 30.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_glowshroom.specials]
 		#Whether the golem can emit light
@@ -758,100 +758,100 @@
 		"Mushroom Frequency" = 420
 
 [golem_duskbound_lamp]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 88.0
 	#Range: 1.0 ~ 999.0
 	attack = 6.0
+	#Range: 1.0 ~ 999.0
+	health = 88.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_duskbound_lamp.specials]
 		#Whether the golem can emit light
 		"Allow Special: Light" = true
 
 [golem_jasper]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 52.0
 	#Range: 1.0 ~ 999.0
 	attack = 5.9
+	#Range: 1.0 ~ 999.0
+	health = 52.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 [golem_iron_plate]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 40.0
 	#Range: 1.0 ~ 999.0
 	attack = 7.0
+	#Range: 1.0 ~ 999.0
+	health = 40.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 [golem_slate]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 50.0
 	#Range: 1.0 ~ 999.0
 	attack = 5.8
+	#Range: 1.0 ~ 999.0
+	health = 50.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 [golem_midori]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 32.0
 	#Range: 1.0 ~ 999.0
 	attack = 3.0
-
-[golem_permafrost]
+	#Range: 1.0 ~ 999.0
+	health = 32.0
 	#Disables in-world building of the golem.
 	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 42.0
+
+[golem_permafrost]
 	#Range: 1.0 ~ 999.0
 	attack = 4.0
+	#Range: 1.0 ~ 999.0
+	health = 42.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_permafrost.specials]
 		#Whether this golem can apply slowness when attacking
 		"Allow Special: Slowness" = true
 
 [golem_brimstone]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 25.0
 	#Range: 1.0 ~ 999.0
 	attack = 6.5
+	#Range: 1.0 ~ 999.0
+	health = 25.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_brimstone.specials]
 		#Whether this golem can light creatures on fire
 		"Allow Special: Burn Enemies" = true
 
 [golem_blaze_lantern]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 34.0
 	#Range: 1.0 ~ 999.0
 	attack = 7.6
+	#Range: 1.0 ~ 999.0
+	health = 34.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_blaze_lantern.specials]
 		#Whether the golem can emit light
 		"Allow Special: Light" = true
 
 [golem_sturdy_stone]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 70.0
 	#Range: 1.0 ~ 999.0
 	attack = 4.0
-
-[golem_color_slime]
+	#Range: 1.0 ~ 999.0
+	health = 70.0
 	#Disables in-world building of the golem.
 	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 58.0
+
+[golem_color_slime]
 	#Range: 1.0 ~ 999.0
 	attack = 2.5
+	#Range: 1.0 ~ 999.0
+	health = 58.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 	[golem_color_slime.specials]
 		#Slime Golem knockback power (Higher Value = Further Knockback)
@@ -862,26 +862,26 @@
 		"Splitting Factor" = 2
 
 [golem_marble]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 54.0
 	#Range: 1.0 ~ 999.0
 	attack = 6.5
+	#Range: 1.0 ~ 999.0
+	health = 54.0
+	#Disables in-world building of the golem.
+	enabled = true
 
 [golem_biotite]
-	#Disables in-world building of the golem.
-	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 116.0
 	#Range: 1.0 ~ 999.0
 	attack = 8.5
-
-[golem_elder_prismarine]
+	#Range: 1.0 ~ 999.0
+	health = 116.0
 	#Disables in-world building of the golem.
 	enabled = true
-	#Range: 1.0 ~ 999.0
-	health = 38.0
+
+[golem_elder_prismarine]
 	#Range: 1.0 ~ 999.0
 	attack = 7.0
+	#Range: 1.0 ~ 999.0
+	health = 38.0
+	#Disables in-world building of the golem.
+	enabled = true
 

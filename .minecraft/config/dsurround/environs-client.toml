@@ -19,6 +19,8 @@
 ["Effect Options"]
 	#Enable/disable Steam Jets where lava meets water
 	"Steam Jets" = true
+	#Enable/disable Water Ripple effects for rain and water splash
+	"Water Ripples" = true
 	#Enable/disable Fire Jets in lava
 	"Fire Jets" = true
 	#Enable/disable Bubble Jets under water
@@ -38,8 +40,6 @@
 	"Disable Underwater Particles" = false
 	#Enable/disable Water Splash effects when water spills down
 	"Waterfall Splash" = true
-	#Enable/disable Water Ripple effects for rain and water splash
-	"Water Ripples" = true
 
 #Options that control the various fog effects in the client
 ["Fog Options"]
@@ -61,15 +61,15 @@
 
 #Options for defining sound behavior
 ["Sound Options"]
+	#Scaling factor to apply to waterfall sounds
+	#Range: 0 ~ 100
+	"Waterfall Volume" = 100
 	#Scaling factor to apply to biome sounds
 	#Range: 0 ~ 100
 	"Biome Sound Volume" = 100
 	#Scaling factor to apply to spot sounds
 	#Range: 0 ~ 100
 	"Spot Sound Volume" = 100
-	#Scaling factor to apply to waterfall sounds
-	#Range: 0 ~ 100
-	"Waterfall Volume" = 100
 	#Occlude WATERFALL sounds
 	"Occlude WATERFALL sounds" = false
 

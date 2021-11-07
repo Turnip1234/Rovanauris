@@ -37,13 +37,13 @@
 
 #Better Weather Settings
 [Season_Settings]
+	#Use seasons?
+	#Default: true
+	Seasons = true
 	#The length of each season in ticks. 24000 is a single minecraft day!
 	#Default: 240000(10 Minecraft days)
 	#Range: > 24000
 	SeasonLength = 240000
-	#Use seasons?
-	#Default: true
-	Seasons = true
 
 [Blizzard_Settings]
 
@@ -87,13 +87,4 @@
 		#Do blizzards slow entities?
 		#Default: true.
 		DoBlizzardsSlowEntities = true
-
-[Rain_Type_Settings]
-
-	[Rain_Type_Settings.World_Settings]
-
-		[Rain_Type_Settings.World_Settings.Light_Rain_Occurance]
-			#Does light rain weather appear in deserts?
-			#Default: false.
-			LightRainInDeserts = false
 

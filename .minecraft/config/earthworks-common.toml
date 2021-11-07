@@ -1,0 +1,5 @@
+
+[General]
+	enable_slate = true
+	enable_chalk = true
+

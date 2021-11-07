@@ -1,3 +1,5 @@
+#Enables logging the too large packets causing disconnects. , default = true
+displayTooLargePackets = true
 
 ["Load balancing settings"]
 
@@ -44,6 +46,8 @@
 	spawnInterval = 1
 	#Fix leash lag from entities on a leash, default = true
 	fixLeash = true
+	#Slower updating of armor stands, default = true
+	slowArmorStands = true
 	#Enables improved entity collision and movement calculations for any non item entity, default = true
 	fastCollisions = true
 	#Enables less laggy entity item pickup, default = true

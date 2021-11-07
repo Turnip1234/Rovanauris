@@ -1,9 +1,9 @@
 
 [horse]
+	"Allow Genetic horses to continue to spawn/exist:" = true
+	"Allow vanilla minecraft Horses to spawn/exist:" = false
 	#Range: > 1000
 	"How many ticks it takes for a horse to give birth, 24000 = 1 Minecraft Day:" = 24000
-	"Allow vanilla minecraft Horses to spawn/exist:" = false
-	"Allow Genetic horses to continue to spawn/exist:" = true
 
 [general]
 	#Range: 0 ~ 100
@@ -22,17 +22,17 @@
 	"Allow vanilla minecraft Llamas to spawn/exist:" = false
 	"Allow Genetic Llamas to continue to spawn/exist:" = true
 
-	[llama."How highly llama spawning is weighted, larger numbers spawn more"]
-		#Range: 1 ~ 20
-		" Default is 6" = 4
+	[llama."The maximum number of llamas you want to find in a group at spawn"]
+		#Range: 1 ~ 60
+		" Default is 3" = 3
 
 	[llama."The minimum number of llamas you want to find in a group at spawn"]
 		#Range: 1 ~ 60
 		" Default is 2" = 2
 
-	[llama."The maximum number of llamas you want to find in a group at spawn"]
-		#Range: 1 ~ 60
-		" Default is 3" = 3
+	[llama."How highly llama spawning is weighted, larger numbers spawn more"]
+		#Range: 1 ~ 20
+		" Default is 6" = 4
 
 [chicken]
 	"Allow vanilla minecraft Chickens to spawn/exist:" = false
@@ -56,13 +56,13 @@
 	#Range: > 1000
 	"How many ticks it takes for a rabbit to give birth, 24000 = 1 Minecraft Day:" = 24000
 
-	[rabbit."How highly rabbit spawning is weighted, larger numbers spawn more"]
-		#Range: 1 ~ 20
-		" Default is 6" = 4
-
 	[rabbit."The minimum number of rabbits you want to find in a group at spawn"]
 		#Range: 1 ~ 60
 		" Default is 2" = 2
+
+	[rabbit."How highly rabbit spawning is weighted, larger numbers spawn more"]
+		#Range: 1 ~ 20
+		" Default is 6" = 4
 
 	[rabbit."The maximum number of rabbits you want to find in a group at spawn"]
 		#Range: 1 ~ 60
@@ -73,29 +73,29 @@
 	#Range: > 1000
 	"How many ticks it takes for a Cow to give birth, 24000 = 1 Minecraft Day:" = 48000
 	"Allow Genetic Cows to continue to spawn/exist:" = true
+	"Allow Genetic Mooblooms to replace Mooblooms added by other mods" = false
 	"Allow vanilla minecraft Cows to spawn/exist:" = false
 	"Allow Genetic Mooshrooms to continue to spawn/exist:" = true
-	"Allow Genetic Mooblooms to replace Mooblooms added by other mods" = false
-
-	[cow."How highly cow spawning is weighted, larger numbers spawn more"]
-		#Range: 1 ~ 20
-		" Default is 6" = 8
-
-	[cow."The minimum number of cows you want to find in a group at spawn"]
-		#Range: 1 ~ 60
-		" Default is 2" = 4
 
 	[cow."The maximum number of cows you want to find in a group at spawn"]
 		#Range: 1 ~ 60
 		" Default is 3" = 4
 
-	[cow."How highly mooshroom spawning is weighted, larger numbers spawn more"]
+	[cow."The minimum number of cows you want to find in a group at spawn"]
+		#Range: 1 ~ 60
+		" Default is 2" = 4
+
+	[cow."How highly cow spawning is weighted, larger numbers spawn more"]
 		#Range: 1 ~ 20
 		" Default is 6" = 8
 
 	[cow."The minimum number of mooshrooms you want to find in a group at spawn"]
 		#Range: 1 ~ 60
 		" Default is 2" = 4
+
+	[cow."How highly mooshroom spawning is weighted, larger numbers spawn more"]
+		#Range: 1 ~ 20
+		" Default is 6" = 8
 
 	[cow."The maximum number of mooshrooms you want to find in a group at spawn"]
 		#Range: 1 ~ 60
@@ -107,17 +107,17 @@
 	"How many ticks it takes for a Rabbit to give birth, 24000 = 1 Minecraft Day:" = 48000
 	"Allow Genetic Sheep to continue to spawn/exist:" = true
 
-	[sheep."How highly sheep spawning is weighted, larger numbers spawn more"]
-		#Range: 1 ~ 20
-		" Default is 6" = 12
+	[sheep."The maximum number of sheep you want to find in a group at spawn"]
+		#Range: 1 ~ 60
+		" Default is 3" = 4
 
 	[sheep."The minimum number of sheep you want to find in a group at spawn"]
 		#Range: 1 ~ 60
 		" Default is 2" = 4
 
-	[sheep."The maximum number of sheep you want to find in a group at spawn"]
-		#Range: 1 ~ 60
-		" Default is 3" = 4
+	[sheep."How highly sheep spawning is weighted, larger numbers spawn more"]
+		#Range: 1 ~ 20
+		" Default is 6" = 12
 
 [pig]
 	#Range: > 1000
@@ -129,11 +129,11 @@
 		#Range: 1 ~ 20
 		" Default is 6" = 6
 
-	[pig."The minimum number of pigs you want to find in a group at spawn"]
-		#Range: 1 ~ 60
-		" Default is 2" = 2
-
 	[pig."The maximum number of pigs you want to find in a group at spawn"]
 		#Range: 1 ~ 60
 		" Default is 3" = 3
+
+	[pig."The minimum number of pigs you want to find in a group at spawn"]
+		#Range: 1 ~ 60
+		" Default is 2" = 2
 

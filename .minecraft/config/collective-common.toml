@@ -1,5 +1,7 @@
 
 [Collective]
+	#Please check out https://stopmodreposts.org/ for more information on why this feature exists.
+	enableAntiRepostingCheck = true
 	#When enabled, transfer the held items and armour from replaced entities by any of the Entity Spawn mods which depend on Collective.
 	transferItemsBetweenReplacedEntities = true
 	#Enables pets for Patrons. Will be added in a future release.
@@ -10,6 +12,4 @@
 	#The delay of the is-there-a-block-around-check around entities in ms. Used in mods which depends on a specific blockstate in the world. Increasing this number can increase TPS if needed.
 	#Range: 0 ~ 3600000
 	findABlockcheckAroundEntitiesDelayMs = 30000
-	#Please check out https://stopmodreposts.org/ for more information on why this feature exists.
-	enableAntiRepostingCheck = true
 
