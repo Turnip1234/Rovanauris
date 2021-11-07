@@ -337,5 +337,5 @@
 			blazing_flask_gen_chance = 0.05
 
 		[general.relics.compatibility]
-			warn_about_old_forge = true
+			warn_about_old_forge = false
 
