@@ -3,8 +3,8 @@
 ## Description:
 A modpack for Minecraft 1.16.5 about having a good time.
 
-# DOWNLOAD & CHANGELOG:
-[Download](https://github.com/Turnip1234/Rovanauris/releases/tag/v-yes)
+# DOWNLOAD:
+[Download](https://github.com/Turnip1234/Rovanauris/archive/refs/heads/main.zip)
 
 ## To install:
 #### With MultiMC:
@@ -17,7 +17,7 @@ A modpack for Minecraft 1.16.5 about having a good time.
 5. Navigate to the Installations tab
 6. Click New installation
 7. Name it something
-8. Change the version to Forge 1.16.5 [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) and run the latest  installer, if you don't already have Forge 1.16.5
+8. Change the version to Forge 1.16.5 [Download Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) and run the latest  installer, if you don't already have Forge 1.16.5
 9. Change the game directory to the `.minecraft` folder that you extracted from the zip
 10. Select "MORE OPTIONS"
 11. Change the JVM arguments to the following: `-Xmx6G -Xms6G -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=600000 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32`
